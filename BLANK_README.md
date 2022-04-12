@@ -71,7 +71,8 @@ If you do not have access to a GPU or aren't sure what it is, don't worry, you c
 
 1. Enter the Colab [https://colab.research.google.com/](https://colab.research.google.com/)
 2. Choose the .ipynb file
-3. Install NPM packages
+   <img src="images/截屏2022-04-12 17.10.30.png">
+4. Install NPM packages
    ```sh
    npm install
    ```
