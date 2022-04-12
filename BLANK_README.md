@@ -65,7 +65,7 @@ You can use a Graphics Processing Unit (GPU) to train your models faster if your
 <br/>
 If you do not have access to a GPU or aren't sure what it is, don't worry, you can execute all the code in this tutorial just fine without a GPU.
 
-### Installation（by using Colab)
+### Prerequisites（by using Colab)
 
 1. Enter the Colab [https://colab.research.google.com/](https://colab.research.google.com/)
 2. Choose the .ipynb file
