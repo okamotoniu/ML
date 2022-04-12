@@ -1,3 +1,4 @@
+<div id="top"></div>
 <h2 align="center">COMP7250<br/> Data augmentation for classifying CIFAR10 images using ResNet</h2>
 <p align="center">
     Design experiments to evaluate the effectiveness of data augmentation to improve the training performance and to reduce overfitting for image classification tasks based on the ResNet18. 
